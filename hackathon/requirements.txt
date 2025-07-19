@@ -1,0 +1,16 @@
+requests
+fastapi
+pydantic
+streamlit>=1.30.0
+streamlit-webrtc
+streamlit-autorefresh
+numpy
+pandas
+av
+scipy
+matplotlib
+plotly
+soundfile
+scikit-learn
+pyaudio==0.2.13
+SpeechRecognition
